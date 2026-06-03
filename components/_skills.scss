@@ -1,0 +1,39 @@
+.skills__list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 5rem;
+}
+
+.skills__title {
+  font-size: var(--font-size-38);
+  font-weight: var(--font-weight-semi-bold);
+}
+
+.skills__item {
+  transition: var(--transition-timing);
+  user-select: none;
+}
+
+.skills__years {
+  display: inline-block;
+  font-size: var(--font-size-20);
+  margin-top: 1rem;
+}
+
+.section--with-bg {
+  padding: 11rem 0;
+}
+
+.section--with-bg::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100vw;
+  background-color: var(--color-grey);
+  justify-self: center;
+  z-index: -1;
+}
+
+.skills__item:hover {
+  text-shadow: 0 0 2px var(--color-green);
+}
