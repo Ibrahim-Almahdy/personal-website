@@ -1,6 +1,6 @@
-## Project Name
+# Project Name
 
-This project is a responsive landing page design challenge provided by [frontendmentor.io](https://www.frontendmentor.io). The goal of this project is to create a landing page design that looks great on different screen sizes and meets the design specifications provided.
+This project is a responsive landing page design challenge provided by [Frontend Mentor](https://www.frontendmentor.io). The goal of this project is to create a landing page design that looks great on different screen sizes and meets the design specifications provided.
 
 ---
 
@@ -11,6 +11,15 @@ This project is a responsive landing page design challenge provided by [frontend
 - Flexbox
 - CSS Grid
 - SASS
+
+---
+
+## Features
+
+- Responsive Design
+- Mobile-Friendly Layout
+- Clean and Modern UI
+- Built with Semantic HTML and CSS
 
 ---
 
@@ -25,7 +34,7 @@ git clone https://github.com/Ibrahim-Almahdy/personal-website.git
 2. Navigate to the project folder:
 
 ```bash
-cd your-repository
+cd personal-website
 ```
 
 3. Open the `index.html` file in your browser.
@@ -34,4 +43,4 @@ cd your-repository
 
 ## Live Demo
 
-[View Live Site]([https://your-live-demo-link.com](https://ibrahim-almahdy.github.io/personal-website/))
+[View Live Site](https://ibrahim-almahdy.github.io/personal-website/)
