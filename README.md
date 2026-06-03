@@ -1,4 +1,4 @@
-# Project Name
+# Personal Website
 
 This project is a responsive landing page design challenge provided by [Frontend Mentor](https://www.frontendmentor.io). The goal of this project is to create a landing page design that looks great on different screen sizes and meets the design specifications provided.
 
